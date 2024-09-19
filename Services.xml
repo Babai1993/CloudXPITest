@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource_Settings type="service">
+  <Resource_Element>
+    <Main_Resource_ID>1753821964</Main_Resource_ID>
+    <Main_Resource_Name>RESTful API</Main_Resource_Name>
+    <Default_Resource>RESTful API_1</Default_Resource>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>1</Resource_Type_ID>
+      <Resource_Type_Name>RESTful API_1</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>Server URL</Name>
+        <ExpressionValue>http://localhost:6443/xpiREST</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>15</ID>
+        <Name>Paths</Name>
+        <DisplaySequenceID>15</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>18</ID>
+        <Name>RS_Type_HelpKey</Name>
+        <ExpressionValue>RESTful_API_Services.htm</ExpressionValue>
+        <DisplaySequenceID>18</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>Api Definition method</Name>
+        <ExpressionValue>OpenApi</ExpressionValue>
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>OpenApi Document</Name>
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>OpenApi Document Version</Name>
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Security</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+  </Resource_Element>
+</Resource_Settings>

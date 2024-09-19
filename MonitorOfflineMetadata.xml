@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="62d50067-1732-4a32-b8c1-9f94869ce226">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Debug flow</Name>
+      <Step>
+        <ID>2</ID>
+        <Name>Flow Data</Name>
+      </Step>
+      <Step>
+        <ID>3</ID>
+        <Name>Flow Data</Name>
+      </Step>
+      <Step>
+        <ID>4</ID>
+        <Name>Buggy mapper</Name>
+      </Step>
+      <Step>
+        <ID>5</ID>
+        <Name>Working mapper</Name>
+      </Step>
+      <Step>
+        <ID>6</ID>
+        <Name>NOP</Name>
+      </Step>
+    </Flow>
+    <Flow>
+      <ID>3</ID>
+      <Name>Debug_flow2</Name>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>

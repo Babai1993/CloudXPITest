@@ -1,0 +1,2 @@
+Result 1,Result 2,Zone,Latitude,Longitude,Elevation,Street,ZIP,City,Standard,Annex,Notes,Legal notice
+22.5 m/s<sup>2</sup>,0.32 kN/m<sup>2</sup>,1,51.2589184,6.7429841,34.71942138671875,Messeplatz,40474,Dusseldorf,EN 1991-1-4,DIN EN 1991-1-4,,Alle Angaben ohne Gewähr

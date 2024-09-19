@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource_Settings type="resource">
+  <Resource_Element>
+    <Main_Resource_ID>36527781</Main_Resource_ID>
+    <Main_Resource_Name>FTP</Main_Resource_Name>
+    <Default_Resource>FTP_1</Default_Resource>
+  </Resource_Element>
+</Resource_Settings>
